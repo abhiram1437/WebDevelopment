@@ -1,0 +1,116 @@
+
+
+.clg_logo
+{
+    height: 100px;
+    
+}
+
+.profile
+{
+    
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+    background-size: cover;
+}
+
+.item-nav
+{
+    color: rgb(24, 181, 24);
+}
+.item-nav:visited
+{
+    color: rgb(24, 181, 24);
+
+}
+.anchor
+{
+    margin-left:350%;
+    font-size: larger;
+}
+.box-left
+{
+    
+    color: white;
+    height:50px;
+    text-align:center;   
+}
+.box-right
+{
+    
+    margin-left:10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.name
+{
+    text-align: center;
+    color: rgb(15, 205, 15);
+}
+.self
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.body-section
+{
+    height: 85vh;
+}
+.skill
+{
+    color:aqua;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    font-size: 50px;
+}
+.list
+{
+    color:white;
+    font-size: large;
+    text-align: center;
+    
+}
+.lang
+{
+    color: white;
+    text-align: center;
+    font-style:normal;
+    font-weight: bold;
+}
+.project
+{
+    color:rgb(182, 152, 22);
+    text-align: center;
+    font-size: 50px;
+}
+.loan
+{
+    color: rgb(7, 97, 129);
+    text-align: center;
+}
+.para
+{
+    color: white;
+    padding-left: 200px;
+    padding-right: 100px;
+
+}
+.cont
+{
+    color:rgb(56, 126, 72);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+
+}
+.social
+{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    word-spacing:40px;
+    
+   
+}
