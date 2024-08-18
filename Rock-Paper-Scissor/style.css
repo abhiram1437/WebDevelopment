@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align:center;
+}
+body {
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+    background-size: cover;
+}
+
+h1 {
+    background-color: #081b31;  /* bg color */
+    color:#fff;
+    height: 5rem;
+    text-align: center;
+    line-height: 5rem; /* center horizontal */
+}
+
+.choice {
+    height: 165px;
+    width: 165px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* images will align  in center */
+    
+}
+
+.choice:hover {
+    cursor: pointer; /* cursor will change to pointer like hand */
+    background-color:#081b31 ; /* whenever cursor is placed on img ,bg color will be change */
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.choices {
+    display: flex; /* images will align in a single row */
+    justify-content: center;
+    align-items: center;
+    gap: 3rem; /* gap b/w images */
+    margin-top: 5rem; /* gap with respective to browser */
+}
+
+.msg-container {
+    margin-top: 5rem;
+}
+
+
+#msg {
+    background-color: #081b31;
+    color: #fff;
+    font-size: 2rem;
+    display: inline; /* bg highlight upto text */
+    padding: 1rem;
+    border-radius: 1rem;
+    
+}
